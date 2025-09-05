@@ -1,4 +1,4 @@
-# steps for running models on gpu
+# STEPS FOR RUNNING MODELS ON GPU
 
 ## Links for installation
 
@@ -99,4 +99,5 @@
 2.8.0+cu129
 True
 12.9
+
 ```
